@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\bin\Debug\netcoreapp2.2\MRSShop.deps.json
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\bin\Debug\netcoreapp2.2\MRSShop.runtimeconfig.json
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\bin\Debug\netcoreapp2.2\MRSShop.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\bin\Debug\netcoreapp2.2\MRSShop.dll
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\bin\Debug\netcoreapp2.2\MRSShop.pdb
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\obj\Debug\netcoreapp2.2\MRSShop.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\obj\Debug\netcoreapp2.2\MRSShop.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\obj\Debug\netcoreapp2.2\MRSShop.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\obj\Debug\netcoreapp2.2\MRSShop.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\obj\Debug\netcoreapp2.2\MRSShop.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\obj\Debug\netcoreapp2.2\MRSShop.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\obj\Debug\netcoreapp2.2\MRSShop.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\obj\Debug\netcoreapp2.2\MRSShop.dll
+C:\Users\lenovo\Desktop\MRSShop\MRSShop\obj\Debug\netcoreapp2.2\MRSShop.pdb
